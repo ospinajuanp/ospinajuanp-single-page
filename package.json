@@ -1,0 +1,30 @@
+{
+  "name": "ospinajuanp-single-page",
+  "version": "1.0.0",
+  "description": "Simple web page project, without using libraries or frameworks such as react, angular, among others.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ospinajuanp/ospinajuanp-single-page.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "sass",
+    "javascript",
+    "normalice"
+  ],
+  "author": "ospinajuanp <juanpo996@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ospinajuanp/ospinajuanp-single-page/issues"
+  },
+  "homepage": "https://github.com/ospinajuanp/ospinajuanp-single-page#readme",
+  "bin": {
+    "ospinajuanp-single-page":"./bin/global.js"
+  },
+  "preferGlobal":true
+}
