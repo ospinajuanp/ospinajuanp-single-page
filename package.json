@@ -24,7 +24,11 @@
   },
   "homepage": "https://github.com/ospinajuanp/ospinajuanp-single-page#readme",
   "bin": {
-    "ospinajuanp-single-page":"./bin/global.js"
+    "ospinajuanp-single-page": "./bin/global.js"
   },
-  "preferGlobal":true
+  "preferGlobal": true,
+  "dependencies": {
+    "normalize.css": "^8.0.1",
+    "sass": "^1.57.1"
+  }
 }
