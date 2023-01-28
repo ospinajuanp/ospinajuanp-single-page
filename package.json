@@ -1,6 +1,6 @@
 {
   "name": "ospinajuanp-single-page",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simple web page project, without using libraries or frameworks such as react, angular, among others.",
   "main": "index.js",
   "scripts": {
@@ -30,5 +30,8 @@
   "dependencies": {
     "normalize.css": "^8.0.1",
     "sass": "^1.57.1"
+  },
+  "devDependencies": {
+    "ospinajuanp-reset-css": "^1.0.4"
   }
 }
