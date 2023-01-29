@@ -1,7 +1,6 @@
-function greetings (){
-    console.log('Thank you for using the ospinajuanp-single-page package to initialize your project.');
-}
+import React from "react";
+import ReactDOM from "react-dom";
+import App from './components/App.jsx'
+import './style/global.scss'
 
-module.exports={
-    greetings
-}
+ReactDOM.render(<App />, document.getElementById('app'))

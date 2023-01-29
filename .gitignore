@@ -1,2 +1,2 @@
-# Ignora la carpeta node_modules
+# ignore folder and content of node_modules - node
 node_modules

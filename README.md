@@ -7,11 +7,22 @@ Whenever I start a new project, I don't know what to write for the first commit.
 ```npm
 npm install -g ospinajuanp-single-page
 ```
+```npm
+npm install 
+```
 
 # Usage
-
+## Development
 ```bash
-ospinajuanp-single-page
+npm run dev
+```
+## Development Serve
+```bash
+npm run start
+```
+## Production
+```bash
+npm run build
 ```
 
 # Contributing
