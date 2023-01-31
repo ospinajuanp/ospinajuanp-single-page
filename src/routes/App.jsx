@@ -1,16 +1,17 @@
 import React from 'react';
-import { BrowserRouter, Switch, Route } from 'react-router-dom';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Layout from '../containers/Layout';
 import Home from '../pages/Home';
+import '../styles/resetStyle.scss'
 
 const App = () => {
 	return (
 		<BrowserRouter>
-			<Layout>
-				<Switch>
-					<Route exact path="/" component={Home} />
-					<Route path="*" component={NotFound} />
-				</Switch>
+		<Layout>
+				<Routes>
+					<Route exact path="/" element={<Home />} />
+					<Route path="*" element={<Route />} />
+				</Routes>
 			</Layout>
 		</BrowserRouter>
 	);
