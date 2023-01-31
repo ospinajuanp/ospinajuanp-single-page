@@ -22,7 +22,13 @@
     "babel",
     "webpack",
     "optimization",
-    "minimizer"
+    "minimizer",
+    "dev-server",
+    "babel",
+    "template",
+    "frontend",
+    "minify",
+    "clean-folder-file"
   ],
   "author": "ospinajuanp <juanpo996@gmail.com>",
   "license": "MIT",

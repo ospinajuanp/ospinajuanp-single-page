@@ -3,6 +3,7 @@
 ## 1.1.2 (January 30, 2023)
 
 * Update React Router Dom 6.8.0 Implementation
+* Update package keywords
 
 ## 1.1.1 (January 29, 2023)
 
