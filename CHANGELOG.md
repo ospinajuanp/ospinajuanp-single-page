@@ -1,6 +1,11 @@
 # Change to ospinajuanp-single-page
 
+## 1.1.2 (January 30, 2023)
+
+* Update React Router Dom 6.8.0 Implementation
+
 ## 1.1.1 (January 29, 2023)
+
 * React Route 5 implementation
 * Copy of assets implementation
 * Folder structure implementation (Atom Design)
