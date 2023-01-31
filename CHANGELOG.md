@@ -4,6 +4,7 @@
 
 * Update React Router Dom 6.8.0 Implementation
 * Update package keywords
+* Axios implementation
 
 ## 1.1.1 (January 29, 2023)
 

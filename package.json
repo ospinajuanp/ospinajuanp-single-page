@@ -1,6 +1,6 @@
 {
   "name": "ospinajuanp-single-page",
-  "version": "1.1.2",
+  "version": "2.0.0",
   "description": "Simple web page project, without using libraries or frameworks such as react, angular, among others.",
   "main": "index.js",
   "scripts": {
@@ -37,6 +37,7 @@
   },
   "homepage": "https://github.com/ospinajuanp/ospinajuanp-single-page#readme",
   "dependencies": {
+    "axios": "^1.2.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.8.0"
