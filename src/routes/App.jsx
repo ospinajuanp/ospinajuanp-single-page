@@ -2,18 +2,23 @@ import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Layout from '../containers/Layout';
 import Home from '../pages/Home';
+import AppContext from '../context/AppContext'
+import useInitialState from '../hooks/useInitialState'
 import '../styles/resetStyle.scss'
 
 const App = () => {
+	const initialState = useInitialState();
 	return (
-		<BrowserRouter>
-		<Layout>
-				<Routes>
-					<Route exact path="/" element={<Home />} />
-					<Route path="*" element={<Route />} />
-				</Routes>
-			</Layout>
-		</BrowserRouter>
+		<AppContext.Provider value={initialState}>
+			<BrowserRouter>
+				<Layout>
+					<Routes>
+						<Route exact path="/" element={<Home />} />
+						<Route path="*" element={<Route />} />
+					</Routes>
+				</Layout>
+			</BrowserRouter>
+		</AppContext.Provider>
 	);
 }
 
