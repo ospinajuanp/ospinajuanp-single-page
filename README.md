@@ -1,6 +1,6 @@
 # ospinajuanp-single-page
 
-Whenever I start a new project, I don't know what to write for the first commit. After doing a “git init” there is technically nothing there...
+This is an unofficial template for creating single-page React applications. It offers a modern build setup without a lot of configuration.
 
 ## Install
 
@@ -11,14 +11,26 @@ npm install ospinajuanp-single-page
 ospinajuanp-single-page
 ```
 
-# Usage
-## Development
-```bash
-npm run dev
+## Create File
+.babelrc
 ```
+{
+    "presets": [
+        "@babel/preset-env",
+        "@babel/preset-react"
+    ]
+}
+```
+
+
+# Usage
 ## Development Serve
 ```bash
 npm run start
+```
+## Development
+```bash
+npm run dev
 ```
 ## Production
 ```bash

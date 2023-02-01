@@ -1,7 +1,7 @@
 {
   "name": "ospinajuanp-single-page",
-  "version": "2.0.5",
-  "description": "Simple web page project, without using libraries or frameworks such as react, angular, among others.",
+  "version": "2.0.6",
+  "description": "This is an unofficial template for creating single-page React applications. It offers a modern build setup without a lot of configuration.",
   "main": "index.js",
   "bin": {
     "ospinajuanp-single-page": "./bin/global.js"
