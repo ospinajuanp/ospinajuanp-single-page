@@ -1,5 +1,8 @@
 # Change to ospinajuanp-single-page
 
+## 2.0.0 (February 1, 2023)
+* build project with the package Implementation
+
 ## 1.1.2 (January 30, 2023)
 
 * Update React Router Dom 6.8.0 Implementation
