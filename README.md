@@ -8,10 +8,7 @@ Whenever I start a new project, I don't know what to write for the first commit.
 npm install ospinajuanp-single-page
 ```
 ```npm
-npm run ospinajuanp-single-page
-```
-```npm
-npm run ospinajuanp-single-page
+ospinajuanp-single-page
 ```
 
 # Usage

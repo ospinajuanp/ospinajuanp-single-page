@@ -1,7 +1,11 @@
 # Change to ospinajuanp-single-page
 
+## 2.0.4 (February 1, 2023)
+* update build script exe auto install package Implementation
+
 ## 2.0.3 (February 1, 2023)
 * update build script exe clear Document
+
 ## 2.0.2 (February 1, 2023)
 * update documentation
 
