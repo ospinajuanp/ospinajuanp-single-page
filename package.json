@@ -1,6 +1,6 @@
 {
   "name": "ospinajuanp-single-page",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "Simple web page project, without using libraries or frameworks such as react, angular, among others.",
   "main": "index.js",
   "bin": {

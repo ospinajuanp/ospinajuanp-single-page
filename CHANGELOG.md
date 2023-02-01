@@ -1,5 +1,9 @@
 # Change to ospinajuanp-single-page
 
+## 2.0.5 (February 1, 2023)
+* update reactDom render
+* add hooks - initial hook Implementation
+
 ## 2.0.4 (February 1, 2023)
 * update build script exe auto install package Implementation
 
