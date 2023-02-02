@@ -1,5 +1,12 @@
 # Change to ospinajuanp-single-page
 
+## 2.0.7 (February 2, 2023)
+* fixed useInitialState return state
+* fixed page load NotFound 
+* adding comments to addState in ComponentName
+* adding comments to NameContainer
+* adding comments to useInitialState
+
 ## 2.0.6 (February 1, 2023)
 * fixed documentation
 ## 2.0.5 (February 1, 2023)

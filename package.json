@@ -1,6 +1,6 @@
 {
   "name": "ospinajuanp-single-page",
-  "version": "2.0.6",
+  "version": "2.0.7",
   "description": "This is an unofficial template for creating single-page React applications. It offers a modern build setup without a lot of configuration.",
   "main": "index.js",
   "bin": {
@@ -23,6 +23,7 @@
     "javascript",
     "react",
     "ospinajuanp-reset-css",
+    "reset-style",
     "babel",
     "webpack",
     "optimization",

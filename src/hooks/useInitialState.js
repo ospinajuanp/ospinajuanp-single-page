@@ -7,7 +7,7 @@ const initialState = {
 const useInitialState = () => {
 	const [state, setState] = useState(initialState);
 
-    // example
+    // example addState
 	const addToNameState = (payload) => {
 		setState({
 			...state,
@@ -18,7 +18,8 @@ const useInitialState = () => {
 
 
 	return {
-		addToNameState
+		state, // always return the state
+		addToNameState // example addState
 	}
 }
 
