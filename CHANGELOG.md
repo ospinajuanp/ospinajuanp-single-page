@@ -1,5 +1,8 @@
 # Change to ospinajuanp-single-page
 
+## 2.0.10 (February 4, 2023)
+* fixed display installation completed
+
 ## 2.0.9 (February 4, 2023)
 * update script 
 
