@@ -1,9 +1,15 @@
 # Change to ospinajuanp-single-page
 
+## 2.0.8 (February 4, 2023)
+* update script move .babelrc
+* update comments to ComponentName
+* delete link resetStyle in public/index.html
+* update keywords package.json
+
 ## 2.0.7 (February 2, 2023)
 * fixed useInitialState return state
 * fixed page load NotFound 
-* adding comments to addState in ComponentName
+* adding comments to ComponentName
 * adding comments to NameContainer
 * adding comments to useInitialState
 

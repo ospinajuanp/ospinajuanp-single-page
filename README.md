@@ -11,18 +11,6 @@ npm install ospinajuanp-single-page
 ospinajuanp-single-page
 ```
 
-## Create File
-.babelrc
-```
-{
-    "presets": [
-        "@babel/preset-env",
-        "@babel/preset-react"
-    ]
-}
-```
-
-
 # Usage
 ## Development Serve
 ```bash
