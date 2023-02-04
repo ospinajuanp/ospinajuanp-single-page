@@ -1,5 +1,8 @@
 # Change to ospinajuanp-single-page
 
+## 2.0.9 (February 4, 2023)
+* update script 
+
 ## 2.0.8 (February 4, 2023)
 * update script move .babelrc
 * update comments to ComponentName
@@ -15,6 +18,7 @@
 
 ## 2.0.6 (February 1, 2023)
 * fixed documentation
+
 ## 2.0.5 (February 1, 2023)
 * update reactDom render
 * add hooks - initial hook Implementation
@@ -35,14 +39,12 @@
 ## 2.0.0 (February 1, 2023)
 * build project with the package Implementation
 
-## 1.1.2 (January 30, 2023)
-
+## 1.1.2 (January 30, 2023) (private)
 * Update React Router Dom 6.8.0 Implementation
 * Update package keywords
 * Axios implementation
 
-## 1.1.1 (January 29, 2023)
-
+## 1.1.1 (January 29, 2023) (private)
 * React Route 5 implementation
 * Copy of assets implementation
 * Folder structure implementation (Atom Design)
@@ -52,8 +54,7 @@
     - routes
     - style
 
-## 1.1.0 (January 28, 2023)
-
+## 1.1.0 (January 28, 2023) (private)
 * React implementation
 * Webpack implementation
 * Webpack Development implementation
@@ -64,7 +65,6 @@
 * sass implementation
 * ospinajuanp-reset-css implementation
 
-### 1.0.3 (January 28, 2023)
-
+### 1.0.3 (January 28, 2023) (private)
 * Fix of the tracking to node_modules
 * Adding CHANGELOG.md file
