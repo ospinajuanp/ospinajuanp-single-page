@@ -1,13 +1,13 @@
 {
   "name": "ospinajuanp-single-page",
-  "version": "2.0.7",
+  "version": "2.0.8",
   "description": "This is an unofficial template for creating single-page React applications. It offers a modern build setup without a lot of configuration.",
   "main": "index.js",
   "bin": {
     "ospinajuanp-single-page": "./bin/global.js"
   },
   "preferGlobal": true,
-  "scripts": {   
+  "scripts": {
     "start": "webpack serve --config webpack.config.dev.js",
     "build": "webpack --config webpack.config.js",
     "dev": "webpack --config webpack.config.dev.js"
