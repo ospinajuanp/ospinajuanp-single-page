@@ -2,6 +2,7 @@
 
 ## 2.0.11 (February 16, 2023)
 * adding internal navigation example
+* script change for correct execution of dev mode and start mode
 
 
 ## 2.0.10 (February 4, 2023)

@@ -14,11 +14,11 @@ ospinajuanp-single-page
 # Usage
 ## Development Serve
 ```bash
-npm run start
+npm run dev
 ```
 ## Development
 ```bash
-npm run dev
+npm run start
 ```
 ## Production
 ```bash
