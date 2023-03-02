@@ -1,5 +1,8 @@
 # Change to ospinajuanp-single-page
 
+## 2.0.12 (March 2, 2023)
+* create initial package.json of project, basic configuration
+
 ## 2.0.11 (February 16, 2023)
 * adding internal navigation example
 * script change for correct execution of dev mode and start mode
