@@ -12,10 +12,6 @@ ospinajuanp-single-page
 ```
 
 # Usage
-## Development Serve
-```bash
-npm run dev
-```
 ## Development
 ```bash
 npm run start
@@ -23,6 +19,10 @@ npm run start
 ## Production
 ```bash
 npm run build
+```
+## Development Serve
+```bash
+npm run dev
 ```
 
 # Contributing
