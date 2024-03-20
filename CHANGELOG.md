@@ -1,5 +1,8 @@
 # Change to ospinajuanp-single-page
 
+## 3.0.0 (Marc 19,2024)
+* change of packer by vite 
+
 ## 2.0.12 (March 2, 2023)
 * create initial package.json of project, basic configuration
 
